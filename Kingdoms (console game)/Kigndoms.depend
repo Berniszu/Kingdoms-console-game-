@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1544052593 source:c:\users\bernis\desktop\kursinis\kigndoms\langai.cpp
+	"langai.h"
+
+1544052206 c:\users\bernis\desktop\kursinis\kigndoms\langai.h
+	<string>
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<bits/stdc++.h>
+
+1544052557 source:c:\users\bernis\desktop\kursinis\kigndoms\main.cpp
+	<iostream>
+	"langai.h"
+	<cstdio>
+	<conio.h>
+	<thread>
+
+1544980989 source:c:\users\bernis\desktop\kursinis\langai.cpp
+	"langai.h"
+
+1544806478 c:\users\bernis\desktop\kursinis\langai.h
+	<string>
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<bits/stdc++.h>
+
+1544995002 source:c:\users\bernis\desktop\kursinis\main.cpp
+	<iostream>
+	"langai.h"
+	<cstdio>
+	<conio.h>
+	<thread>
+	<string>
+	<fstream>
+	<ctime>
+
+1544434139 source:c:\users\berniszu\desktop\kursinis\langai.cpp
+	"langai.h"
+
+1544434110 c:\users\berniszu\desktop\kursinis\langai.h
+	<string>
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<bits/stdc++.h>
+
+1544737530 source:c:\users\berniszu\desktop\kursinis\main.cpp
+	<iostream>
+	"langai.h"
+	<cstdio>
+	<conio.h>
+	<thread>
+	<string>
+	<fstream>
+
+1544980990 source:c:\users\berniszu\desktop\kursinis - 13-17 naktis\langai.cpp
+	"langai.h"
+
+1544806480 c:\users\berniszu\desktop\kursinis - 13-17 naktis\langai.h
+	<string>
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<bits/stdc++.h>
+
+1545053397 source:c:\users\berniszu\desktop\kursinis - 13-17 naktis\main.cpp
+	<iostream>
+	"langai.h"
+	<cstdio>
+	<conio.h>
+	<thread>
+	<string>
+	<fstream>
+	<ctime>
+
+1544980990 source:c:\users\berniszu\desktop\kursinis - pabaigtas!! beveik\langai.cpp
+	"langai.h"
+
+1544806480 c:\users\berniszu\desktop\kursinis - pabaigtas!! beveik\langai.h
+	<string>
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<bits/stdc++.h>
+
+1545342363 source:c:\users\berniszu\desktop\kursinis - pabaigtas!! beveik\main.cpp
+	<iostream>
+	"langai.h"
+	<cstdio>
+	<conio.h>
+	<thread>
+	<string>
+	<fstream>
+	<ctime>
+
+1544980990 source:c:\users\berniszu\desktop\new folder (3)\kursinis - pabaigtas!! beveik\langai.cpp
+	"langai.h"
+
+1544806480 c:\users\berniszu\desktop\new folder (3)\kursinis - pabaigtas!! beveik\langai.h
+	<string>
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<bits/stdc++.h>
+
+1545426463 source:c:\users\berniszu\desktop\new folder (3)\kursinis - pabaigtas!! beveik\main.cpp
+	<iostream>
+	"langai.h"
+	<cstdio>
+	<conio.h>
+	<thread>
+	<string>
+	<fstream>
+	<ctime>
+
+1544984590 source:c:\users\bernis\desktop\kursinis - pabaigtas!! beveik\langai.cpp
+	"langai.h"
+
+1544810080 c:\users\bernis\desktop\kursinis - pabaigtas!! beveik\langai.h
+	<string>
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<bits/stdc++.h>
+
+1545430063 source:c:\users\bernis\desktop\kursinis - pabaigtas!! beveik\main.cpp
+	<iostream>
+	"langai.h"
+	<cstdio>
+	<conio.h>
+	<thread>
+	<string>
+	<fstream>
+	<ctime>
+
